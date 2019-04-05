@@ -2,14 +2,14 @@
 
 CVPR 2019 论文开源项目合集
 
-- [目标检测](#Object Detection)
-- [目标跟踪](#Object Tracking)
-- [语义分割](#Semantic Segmentation)
-- [实例分割](#Instance Segmentation)
-- [人脸检测](#Face Detection)
-- [人体姿态估计](#Human Pose Estimation)
+- [目标检测](#Object-Detection)
+- [目标跟踪](#Object-Tracking)
+- [语义分割](#Semantic-Segmentation)
+- [实例分割](#Instance-Segmentation)
+- [人脸检测](#Face-Detection)
+- [人体姿态估计](#Human-Pose-Estimation)
 
-<a name="Object Detection"></a>
+<a name="Object-Detection"></a>
 
 # 目标检测
 
@@ -19,7 +19,7 @@ arXiv：<https://arxiv.org/abs/1809.08545>
 
 github：<https://github.com/yihui-he/KL-Loss>
 
-<a name="Object Tracking"></a>
+<a name="Object-Tracking"></a>
 
 # 目标跟踪
 
@@ -31,7 +31,7 @@ github：<https://github.com/foolwood/SiamMask>
 
 homepage：<http://www.robots.ox.ac.uk/~qwang/SiamMask>
 
-<a name="Semantic Segmentation"></a>
+<a name="Semantic-Segmentation"></a>
 
 # 语义分割
 
@@ -53,7 +53,7 @@ arXiv：None
 
 github：<https://github.com/chenwydj/ultra_high_resolution_segmentation>
 
-<a name="Instance Segmentation"></a>
+<a name="Instance-Segmentation"></a>
 
 # 实例分割
 
@@ -63,7 +63,7 @@ arXiv：<https://arxiv.org/abs/1903.00241>
 
 github：<https://github.com/zjhuang22/maskscoring_rcnn>
 
-<a name="Face Detection"></a>
+<a name="Face-Detection"></a>
 
 # 人脸检测
 
@@ -73,7 +73,7 @@ arXiv：<https://arxiv.org/abs/1810.10220>
 
 github：<https://github.com/TencentYoutuResearch/FaceDetection-DSFD>
 
-<a name="Human Pose Estimation"></a>
+<a name="Human-Pose-Estimation"></a>
 
 # 人体姿态估计
 
