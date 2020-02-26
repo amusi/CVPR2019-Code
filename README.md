@@ -2,6 +2,8 @@
 
 CVPR 2019 论文开源项目合集
 
+传送门：[CVPR 2020 论文开源项目合集](https://github.com/amusi/CVPR2020-Code)
+
 附：[530 篇 CVPR 2019 论文代码链接](./CVPR2019_CodeLink.csv)
 
 - [目标检测](#Object-Detection)
@@ -16,6 +18,8 @@ CVPR 2019 论文开源项目合集
 - [人群密度估计](#Crowd-Counting)
 
 **更新记录：**
+
+- 20200226：添加 [CVPR 2020 论文开源项目合集](https://github.com/amusi/CVPR2020-Code)
 
 - 20191026：添加 [530 篇论文代码链接](./CVPR2019_CodeLink.csv)
 - 20190405：添加 8 篇论文（目标检测、语义分割等方向）
