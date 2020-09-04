@@ -122,7 +122,15 @@ CVPR 2019 论文开源项目合集
 
 - github：<https://github.com/leoxiaobin/deep-high-resolution-net.pytorch>
 
+**Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views**
+
+- arXiv：<https://arxiv.org/abs/1901.04111>
+
+- github：<https://github.com/zju3dv/mvpose>
+
 <a name="6DoF-Pose-Estimation"></a>
+
+
 
 # 6DoF姿态估计
 
